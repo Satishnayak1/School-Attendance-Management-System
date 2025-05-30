@@ -66,6 +66,9 @@
 ├── 📁 database/
 │   └── school_attendance.sql
 └── README.md
-#   S c h o o l - A t t e n d a n c e - M a n a g e m e n t - S y s t e m 
- 
+
+```bash
+
+
+### Projects ends Here
  
